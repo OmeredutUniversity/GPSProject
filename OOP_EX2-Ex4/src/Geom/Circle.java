@@ -1,4 +1,7 @@
 package Geom;
+
+import Coords.MyCoords;
+
 /**
  * This class represents a 2D (open set) circle
  * @author ben-moshe
